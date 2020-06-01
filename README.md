@@ -9,7 +9,7 @@ Embora simples foram necessarios algumas bibliotecas para que fosse possivel che
 
 <b>Bibliotecas</b>
 
-<b>Chalk:</b> Estilização da das letras https://github.com/chalk/chalk;
-<b>Figlet:</b> Para fazer o logo https://github.com/scottgonzalez/figlet-js;
-<b>Commander:</b> Nos fornece varias facilidades para programar uma CLI https://github.com/tj/commander.js/;
+<b>Chalk:</b> Estilização da das letras https://github.com/chalk/chalk</br>
+<b>Figlet:</b> Para fazer o logo https://github.com/scottgonzalez/figlet-js</br>
+<b>Commander:</b> Nos fornece varias facilidades para programar uma CLI https://github.com/tj/commander.js/</br>
 <b>Inquirer:</b> Facilita a interação com o úsuario https://github.com/SBoudrias/Inquirer.js/.
